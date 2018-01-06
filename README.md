@@ -7,7 +7,7 @@ Para el futuro se incorporan otros sensores, algunos de ellos serán: laser, lid
 Durante el desarrollo de este proyecto se ha generado una importante cantidad de información visual, la misma que 
 está a disposición de la comunidad científica.
 
-*  Base de datos de imágenes de ojos de conductores durante el día
+* Base de datos de imágenes de ojos de conductores durante el día
 
     Para descargar ir a la dirección de mega:
     https://mega.nz/#F!hfRSSIbY

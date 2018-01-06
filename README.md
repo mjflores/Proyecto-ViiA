@@ -1,6 +1,6 @@
 # **Proyecto-ViiA**
 
-!("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
+("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
 
 ## ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
 Actualmente, se están desarrollando sistemas basados en visión artificial, como son las cámaras.

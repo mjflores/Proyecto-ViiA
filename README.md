@@ -23,7 +23,7 @@ está a disposición de la comunidad científica.
  * Base de datos de secuencias de conductores durante la noche, tomadas bajo iluminación infrarroja.
 
     Para descargar ir a la dirección de mega:
-    [GitHub](https://mega.nz/#F!kaoUHCia)
+    [Mega](https://mega.nz/#F!kaoUHCia)
 
     Si hace uso de esta información, por favor citar:
 

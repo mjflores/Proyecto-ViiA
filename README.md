@@ -17,6 +17,7 @@ está a disposición de la comunidad científica.
     Si hace uso de esta información, por favor citar:
 
     M. J. Flores-Calero, J. M. Armingol and A. de la Escalera
+    
     Real-Time Warning System for Driver Drowsiness Detection Using Visual Information. 
     Journal of Intelligent and Robotic Systems, 59 (2), Pg. 103-125, 2009
     doi: 10.1007/s10846-009-9391-1 
@@ -27,7 +28,8 @@ está a disposición de la comunidad científica.
 
     Si hace uso de esta información, por favor citar:
 
-    M. J. Flores-Calero, J. M. Armingol and A. de la Escalera, 
+    M. J. Flores-Calero, J. M. Armingol and A. de la Escalera
+    
     Driver drowsiness detection system under infrared illumination for an intelligent vehicle
     IET Intelligent Transport Systems, vol. 5, no. 4, pp. 241-251, December 2011.
     doi: 10.1049/iet-its.2009.0090
@@ -40,6 +42,7 @@ está a disposición de la comunidad científica.
     Si hace uso de esta información, por favor citar:
 
     Marco Flores-Calero, Darío Robayo y Darío Saa
+    
     Histograma del Gradiente con Múltiples Orientaciones (HOG-MO) Detección de personas 
     Revista Vínculos, ISSN 1794- 211X; E-ISSN 2322 – 939X, 2015
 

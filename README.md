@@ -34,7 +34,8 @@ está a disposición de la comunidad científica.
 * Base de datos de peatones
 
     Para descargar ir a la dirección de mega:
-    https://mega.nz/#F!kaoUHCaa
+    https://mega.nz/#F!lGxW1aSa
+
 
     Si hace uso de esta información, por favor citar:
 

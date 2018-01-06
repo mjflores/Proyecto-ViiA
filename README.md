@@ -20,3 +20,18 @@ está a disposición de la comunidad científica.
     Real-Time Warning System for Driver Drowsiness Detection Using Visual Information. 
     Journal of Intelligent and Robotic Systems, 59 (2), Pg. 103-125, 2009
     doi: 10.1007/s10846-009-9391-1 
+ * Base de datos de secuencias de conductores durante la noche, tomadas bajo iluminación infrarroja.
+
+    Para descargar ir a la dirección de mega:
+    https://mega.nz/#F!kaoUHCia
+
+    Si hace uso de esta información, por favor citar:
+
+    M. J. Flores-Calero, J. M. Armingol and A. de la Escalera, 
+    Driver drowsiness detection system under infrared illumination for an intelligent vehicle
+    IET Intelligent Transport Systems, vol. 5, no. 4, pp. 241-251, December 2011.
+    doi: 10.1049/iet-its.2009.0090
+* Base de datos de señales de tráfico del Ecuador, en los casos Pare y Ceda el Paso.
+
+
+* Base de datos de señales de tráfico del Ecuador, en los casos de prohibición y Advertencia.

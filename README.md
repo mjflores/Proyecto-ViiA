@@ -1,5 +1,7 @@
-# **Proyecto-ViiA**
 
+<p align="center">
+# **Proyecto-ViiA**
+</p>
 ![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
 
 <p align="center">

@@ -3,7 +3,7 @@
 </p>
  
 
-**ViiA** es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
+**@ViiA** es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
 
 Actualmente, se están desarrollando sistemas basados en información visual y varias técnicas, en la frontera del conocimiento, de Inteligencia Artificial.
  

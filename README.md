@@ -1,13 +1,14 @@
 
 # **Proyecto-ViiA**
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Alinear texto con Bootstrap</title>
   
-  </head>
-  </html>
+  <p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
 [![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")]
 
 ![Alt text](C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png?raw=true "Optional Title")

@@ -3,7 +3,7 @@
 ![Una imagen cualquiera](C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png "AAA.png")
 
 <p align="center">
-  <img src="C:\\Users\\ESPE\\Documents\\MEGA\\IH Tech\\Logos del proyecto\\logo3.png" width="450"/>
+  <img src="C:\\Users\\ESPE\\Documents\\MEGA\\IH/Tech\\Logos/del/proyecto\\logo3.png" width="450"/>
 </p>
 
 ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.

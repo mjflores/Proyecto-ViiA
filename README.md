@@ -2,7 +2,7 @@
 
 ("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
 
-## ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
+## @ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
 Actualmente, se están desarrollando sistemas basados en visión artificial, como son las cámaras.
 Para el futuro se incorporan otros sensores, algunos de ellos serán: laser, lidar.
 
@@ -44,7 +44,7 @@ está a disposición de la comunidad científica.
     Marco Flores-Calero, Darío Robayo y Darío Saa
     
     Histograma del Gradiente con Múltiples Orientaciones (HOG-MO) Detección de personas 
-    Revista Vínculos, ISSN 1794- 211X; E-ISSN 2322 – 939X, 2015
+    Revista Vínculos, Vol. 12, Número2 (2015), ISSN 1794- 211X; E-ISSN 2322 – 939X, 
 
 
 * Base de datos de señales de tráfico del Ecuador, en los casos Pare y Ceda el Paso.

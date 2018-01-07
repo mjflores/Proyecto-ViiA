@@ -65,7 +65,7 @@ ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
 
  <p align="center">
   <b>Some Links:</b><br>
-  <a href="#">  [![Video Peatones](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7fc5hH-lrGA)  </a> |
+  <a href="#"> Link 1 (https://www.youtube.com/watch?v=7fc5hH-lrGA)  </a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>

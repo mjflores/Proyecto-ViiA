@@ -50,7 +50,7 @@ ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
     Histograma del Gradiente con Múltiples Orientaciones (HOG-MO) Detección de personas 
     Revista Vínculos, Vol. 12, Número 2 (2015), ISSN 1794- 211X; E-ISSN 2322 – 939X, 
     
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg) 
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7fc5hH-lrGA) 
 
 
 * ## Base de datos de señales de tráfico del Ecuador, en los casos Pare y Ceda el Paso durante le día

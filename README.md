@@ -1,6 +1,6 @@
 # **Proyecto-ViiA**
 
-("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
+![Una imagen cualquiera](C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3 "AAA.png")
 
 ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
 Actualmente, se están desarrollando sistemas basados en visión artificial, como son las cámaras.
@@ -31,7 +31,7 @@ Durante el desarrollo de este proyecto se ha generado una importante cantidad de
     Driver drowsiness detection system under infrared illumination for an intelligent vehicle
     IET Intelligent Transport Systems, vol. 5, no. 4, pp. 241-251, December 2011.
     doi: 10.1049/iet-its.2009.0090
-* ## Base de datos de peatones
+* ## Base de datos de peatones durante el día
 
     Para descargar ir a la dirección de mega:
     https://mega.nz/#F!lGxW1aSa
@@ -45,7 +45,7 @@ Durante el desarrollo de este proyecto se ha generado una importante cantidad de
     Revista Vínculos, Vol. 12, Número 2 (2015), ISSN 1794- 211X; E-ISSN 2322 – 939X, 
 
 
-* ## Base de datos de señales de tráfico del Ecuador, en los casos Pare y Ceda el Paso.
+* ## Base de datos de señales de tráfico del Ecuador, en los casos Pare y Ceda el Paso durante le día
 
 
 * ## Base de datos de señales de tráfico del Ecuador, en los casos de prohibición y Advertencia.

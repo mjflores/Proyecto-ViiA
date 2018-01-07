@@ -5,7 +5,7 @@
 
 [![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")]
 
-![Alt text](https://www.google.com/search?q=bitcoin&client=firefox-b&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjjvN253sTYAhXFNiYKHWacAs0Q_AUICigB&biw=1280&bih=588#imgrc=239qSVr3_bYXdM:)
+![Alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjn-JSy38TYAhUKxCYKHbReBNIQjRwIBw&url=https%3A%2F%2Fwww.payfast.co.za%2Fbitcoin%2F&psig=AOvVaw1juhNR4DdGooX-mR-9T1zo&ust=1515376218512155)
 
 
 <br>

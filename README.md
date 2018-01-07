@@ -5,7 +5,7 @@
 
 [![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")]
 
-![Alt text](C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png?raw=true "Optional Title")
+![Alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi9rva83sTYAhXGKCYKHUPwA9AQjRwIBw&url=https%3A%2F%2Fwww.bitlat.com%2Fblog%2Fque-es-bitcoin%2F&psig=AOvVaw1juhNR4DdGooX-mR-9T1zo&ust=1515376218512155?raw=true "Optional Title")
 <br>
   <img  width="450" src="C:\\Users\\ESPE\\Documents\\MEGA\\IH/Tech\\Logos/del/proyecto\\logo3.png" />
 <br>

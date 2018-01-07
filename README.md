@@ -2,7 +2,7 @@
 <b>Proyecto-ViiA</b><br>
 </p>
  
-
+Example text {style="text-align:center"}
 
 [![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")]
 
@@ -62,14 +62,5 @@ ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
  [![Video Señales de Tráfico (Pare y Ceda el Paso)](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=3XNiLd3Ye4M) 
  
 * ## Base de datos de señales de tráfico del Ecuador, en los casos de prohibición y Advertencia.
-
- <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#"> Link 1 https://www.youtube.com/watch?v=7fc5hH-lrGA  </a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="C://Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png">
-</p>
 
 

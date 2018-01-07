@@ -4,7 +4,7 @@
 ![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
 
 <br>
-  <img src="C:\\Users\\ESPE\\Documents\\MEGA\\IH/Tech\\Logos/del/proyecto\\logo3.png" width="450"/>
+  <img  width="450" src="C:\\Users\\ESPE\\Documents\\MEGA\\IH/Tech\\Logos/del/proyecto\\logo3.png" />
 <br>
 
 ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
@@ -49,6 +49,13 @@ ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
     Histograma del Gradiente con Múltiples Orientaciones (HOG-MO) Detección de personas 
     Revista Vínculos, Vol. 12, Número 2 (2015), ISSN 1794- 211X; E-ISSN 2322 – 939X, 
 
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 * ## Base de datos de señales de tráfico del Ecuador, en los casos Pare y Ceda el Paso durante le día
 

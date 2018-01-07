@@ -3,17 +3,7 @@
 </p>
  
 
-[![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")]
-
-![Imagen1](https://www.payfast.co.za/bitcoin/)
-
-
-<br>
-  <img  width="450" src="C:\\Users\\ESPE\\Documents\\MEGA\\IH/Tech\\Logos/del/proyecto\\logo3.png" />
-<br>
-![Esta es una etiqueta.]["C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png"]
-
-ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
+**ViiA** es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
 
 Actualmente, se están desarrollando sistemas basados en información visual y varias técnicas, en la frontera del conocimiento, de Inteligencia Artificial.
  

@@ -12,9 +12,10 @@
 ![Esta es una etiqueta.]["C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png"]
 
 ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
- Actualmente, se están desarrollando sistemas basados en visión artificial, como son las cámaras.
- Para el futuro se incorporan otros sensores, algunos de ellos serán: laser, lidar.
- Durante el desarrollo de este proyecto se ha generado una importante cantidad de información visual, la misma que está a disposición de la comunidad científica. 
+
+Actualmente, se están desarrollando sistemas basados en cámaras, utilizando téncias del estado del arte en Inteligencia Artificial.
+ 
+Durante el desarrollo de este proyecto se ha generado una importante cantidad de información visual, la misma que está a disposición de la comunidad científica. 
 
 * ## Base de datos de imágenes de ojos de conductores durante el día
 
@@ -64,3 +65,4 @@ ViiA es el acrónimo de Vehículo Inteligente basado en Inteligencia Artificial.
 * ## Base de datos de señales de tráfico del Ecuador, en los casos de prohibición y Advertencia.
 
 
+Para el futuro se incorporan otros sensores, algunos de ellos serán el laser y el lidar.

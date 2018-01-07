@@ -1,6 +1,13 @@
 
 # **Proyecto-ViiA**
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Alinear texto con Bootstrap</title>
+  
+  </head>
+  </html>
 [![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")]
 
 ![Alt text](C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png?raw=true "Optional Title")

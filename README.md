@@ -65,4 +65,4 @@ Durante el desarrollo de este proyecto se ha generado una importante cantidad de
 * ## Base de datos de señales de tráfico del Ecuador, en los casos de prohibición y Advertencia.
 
 
-** Para el futuro se incorporan otros sensores, algunos de ellos serán el laser y el lidar. **
+Para el futuro se incorporan otros sensores, algunos de ellos serán el laser y el lidar.

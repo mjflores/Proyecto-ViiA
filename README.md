@@ -1,6 +1,6 @@
 # **Proyecto-ViiA**
 
-![Una imagen cualquiera](C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png "AAA.png")
+![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
 
 <p align="center">
   <img src="C:\\Users\\ESPE\\Documents\\MEGA\\IH/Tech\\Logos/del/proyecto\\logo3.png" width="450"/>

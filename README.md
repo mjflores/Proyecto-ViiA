@@ -2,7 +2,7 @@
 # **Proyecto-ViiA**
 
 ![Una imagen cualquiera]("C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png")
-
+![Alt text](C:/Users/ESPE/Documents/MEGA/IH Tech/Logos del proyecto/logo3.png?raw=true "Optional Title")
 <br>
   <img  width="450" src="C:\\Users\\ESPE\\Documents\\MEGA\\IH/Tech\\Logos/del/proyecto\\logo3.png" />
 <br>

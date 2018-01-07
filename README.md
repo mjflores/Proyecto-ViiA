@@ -1,7 +1,6 @@
 <p align="center">
-# **Proyecto-ViiA**
-  <b>Proyecto-ViiA</b><br>
-  </p>
+<b>Proyecto-ViiA</b><br>
+</p>
  
  <p align="center">
   <b>Some Links:</b><br>

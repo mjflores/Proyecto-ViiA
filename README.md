@@ -33,7 +33,7 @@ Durante el desarrollo de este proyecto se ha generado una importante cantidad de
     Driver drowsiness detection system under infrared illumination for an intelligent vehicle
     IET Intelligent Transport Systems, vol. 5, no. 4, pp. 241-251, December 2011.
     doi: 10.1049/iet-its.2009.0090
-* ## Base de datos de peatones durante el día (ViiA pedestrian Dataset)
+* ## Base de datos de peatones durante el día (ViiA pedestrian dataset)
 
     Para descargar ir a la dirección de mega:
     https://mega.nz/#F!lGxW1aSa

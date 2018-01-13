@@ -21,7 +21,7 @@ Durante el desarrollo de este proyecto se ha generado una importante cantidad de
     Real-Time Warning System for Driver Drowsiness Detection Using Visual Information. 
     Journal of Intelligent and Robotic Systems, 59 (2), Pg. 103-125, 2009
     doi: 10.1007/s10846-009-9391-1 
- * ## Base de datos de secuencias de conductores durante la noche, tomadas bajo iluminación infrarroja.
+ * ## Base de datos de secuencias de conductores durante la noche, tomadas bajo iluminación infrarroja
 
     Para descargar ir a la dirección de mega:
     https://mega.nz/#F!kaoUHCia
@@ -54,7 +54,7 @@ Durante el desarrollo de este proyecto se ha generado una importante cantidad de
 
  [![Video Señales de Tráfico (Pare y Ceda el Paso)](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=3XNiLd3Ye4M) 
  
-* ## Base de datos de señales de tráfico del Ecuador, en los casos de prohibición y Advertencia.
+* ## Base de datos de señales de tráfico del Ecuador, en los casos de prohibición y Advertencia
 
 
 Para el futuro se incorporan otros sensores, algunos de ellos serán el laser y el lidar.
